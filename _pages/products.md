@@ -22,5 +22,7 @@ Tedz Trading Tattoo Numbing Cream
 ![Tedz Trading](assets/images/DSC06715 Original 800x 448 final.jpg){:style="height:448px;width:800px;"}
 
 and Tedz Tattoo Numbing Cream
-![Tedz Trading](assets/images/DSC06605 final 800w x 915.jpg){:style="height:915px;width:800px;"}
+
+![Tedz Trading](assets/images/DSC06706 Tedz 800w x448 1.jpg){:style="height:448px;width:800px;"}
+
 ![Tedz Trading](assets/images/DSC06617 final 800w x 976.jpg){:style="height:976px;width:800px;"}
