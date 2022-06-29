@@ -7,7 +7,7 @@ layout: splash
 ---
 # Products
 
-![Tedz Trading](assets/images/store-800x533.jpg){:style="height:533px;width:800px;"}
+
 
 Here are some of the products that Tedz Trading currently sell.
 
