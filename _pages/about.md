@@ -16,7 +16,7 @@ We primarily trade via the Amazon retail platform.
 <address>
 Tedz Trading Ltd.<br>
 1 Upton Close<br>
-Farnborough<br>
+Farnborough z<br>
 Hampshire<br>
 GU14 7EN<br>
 </address>
