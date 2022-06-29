@@ -11,7 +11,9 @@ layout: splash
 
 Available products.
 
-Designed for new Tattoos - Our high quality numbing cream provides effective numbing of the skin making getting a new tattoo more comfortable.
+Tattoo Numbing creams
+
+Designed for new Tattoos - Our high quality numbing creama provides effective numbing of the skin making getting a new tattoo more comfortable.
 It can also be applied to a new Tattoo to help relieve pain during the healing process.
 The numbing action is deep and on average lasts between two to four hours depending on the numbing cream amount applied and your body composition.
 
