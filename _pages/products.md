@@ -1,7 +1,7 @@
 ---
 title: Products
 description: Productst by Tedz Trading
-keywords: Our products
+keywords: products
 permalink: /products
 layout: splash
 ---
@@ -11,7 +11,7 @@ layout: splash
 
 Here are some of the products that Tedz Trading currently sell.
 
-We primarily trade via the Amazon retail platform.
+
 
 <address>
 Tedz Trading Ltd.<br>
