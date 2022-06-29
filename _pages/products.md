@@ -17,7 +17,7 @@ The numbing action is deep and on average lasts between two to four hours depend
 
 Our Tattoo Numbing cream is available in two versions:
 
-Our original Tattoo Numbing Cream
+Tedz Trading Tattoo Numbing Cream
 
 ![Tedz Trading](assets/images/DSC06715 Original 800x 448 final.jpg){:style="height:448px;width:800px;"}
 
