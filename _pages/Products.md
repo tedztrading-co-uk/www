@@ -1,1 +1,24 @@
+---
+title: Prodcuts
+description: Tedz Trading products
+keywords: Products
+permalink: /Products
+layout: splash
+---
+# Products
+
+![Tedz Trading](assets/images/store-800x533.jpg){:style="height:533px;width:800px;"}
+
+Tedz Trading is a UK based business registered in England and Wales registration number 13848482.
+
+Some of the prodcuts that we currently are:
+
+<address>
+Tedz Trading Ltd.<br>
+1 Upton Close<br>
+Farnborough<br>
+Hampshire<br>
+GU14 7EN<br>
+</address>
+
 
