@@ -25,6 +25,6 @@ Our Tattoo Numbing cream is available in two versions:
 
 2: Tedz Tattoo Numbing Cream
 
-![Tedz Trading](assets/images/DSC06706 Tedz 800w x448 1.jpg)
+![Tedz Trading](assets/images/Tedz box and cream 800wx928.jpg)
 
 ![Tedz Trading](assets/images/DSC06617 final 800w x 976.jpg)
